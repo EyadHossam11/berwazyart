@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 40 40">
+  <defs>
+    <linearGradient id="v" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#34d399;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#059669;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <circle cx="20" cy="20" r="18" fill="url(#v)" />
+  {/* Nails */}
+  <circle cx="20" cy="5" r="1.5" fill="white" />
+  <circle cx="35" cy="20" r="1.5" fill="white" />
+  <circle cx="20" cy="35" r="1.5" fill="white" />
+  <circle cx="5" cy="20" r="1.5" fill="white" />
+  <circle cx="30.6" cy="9.4" r="1.5" fill="white" />
+  <circle cx="30.6" cy="30.6" r="1.5" fill="white" />
+  <circle cx="9.4" cy="30.6" r="1.5" fill="white" />
+  <circle cx="9.4" cy="9.4" r="1.5" fill="white" />
+  {/* Threads */}
+  <path d="M20,5 L35,20 L20,35 L5,20 Z" stroke="white" stroke-width="1" fill="none" opacity="0.6" />
+  <path d="M9.4,9.4 L30.6,30.6 M9.4,30.6 L30.6,9.4" stroke="white" stroke-width="1" fill="none" opacity="0.4" />
+  {/* Letter */}
+  <text x="20" y="27" font-family="sans-serif" font-size="18" font-weight="900" fill="white" text-anchor="middle">ب</text>
+</svg>
